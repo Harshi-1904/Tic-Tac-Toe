@@ -13,6 +13,9 @@ A web-based, interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 - CSS3 (with modern,  dark/light theme elements)
 - JavaScript (for game logic and interactivity)
 
+ ## Demo
+Open `tic-tac-toe.html` in any modern web browser to use the calculator.
+
 ## Clone the Repository
 Type the command in any bash
 ```git clone https://github.com/Harshi-1904/Tic-Tac-Toe.git```
